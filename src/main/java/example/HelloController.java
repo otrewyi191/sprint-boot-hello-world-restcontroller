@@ -6,10 +6,10 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.HashMap;
 import java.util.Map;
-@RestController
+@Controller
 public class HelloController {
     @RequestMapping("/index")
     public String index(){
-        return "helloworld!";
+        return "welcome";
     }
 }

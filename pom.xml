@@ -8,7 +8,6 @@
     <artifactId>1</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <packagingexample>jar</packagingexample>
     <name>demo</name>
     <description>Demo project for Spring Boot</description>
     <parent>
